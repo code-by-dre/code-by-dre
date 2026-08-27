@@ -34,9 +34,5 @@ I'm a final-year Computer Science student who bridges the gap between **statisti
 
 ### 💻 Languages
 
-│ Python ████████████████████░░░░░░░░░░ 70% │
-│ C++ ██████████████████░░░░░░░░░░░░ 65% │
-│ JavaScript ██████████████░░░░░░░░░░░░░░░░ 50% │
-│ Java ██████████████░░░░░░░░░░░░░░░░ 50% │
-│ HTML/CSS ██████████████░░░░░░░░░░░░░░░░ 45% │
+│ Python │ C++│ JavaScript │ Java│ HTML/CSS |
 
