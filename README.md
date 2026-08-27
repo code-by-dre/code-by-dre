@@ -1,7 +1,7 @@
 # Hello! I'm [Your Name] 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+in+Training;Full-Stack+Developer;Statistics+Enthusiast;Final+Year+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+in+Training;Full-Stack+Developer;Statistics+Enthusiast;Data+Scientist" alt="Typing SVG" />
 </p>
 
 <p align="center">
