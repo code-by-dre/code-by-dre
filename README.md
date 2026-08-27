@@ -29,7 +29,7 @@ I'm a final-year Computer Science student who bridges the gap between **statisti
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,flask,fastapi,tensorflow,pytorch,git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,flask,fastapi,tensorflow,pytorch,git,linux" />
 </p>
 
 ### 💻 Languages
