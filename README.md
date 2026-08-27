@@ -1,4 +1,4 @@
-# Hello! I'm [Your Name] 👋
+# Hello! I'm Code By Dré 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+in+Training;Full-Stack+Developer;Statistics+Enthusiast;Data+Scientist" alt="Typing SVG" />
@@ -35,4 +35,69 @@ I'm a final-year Computer Science student who bridges the gap between **statisti
 ### 💻 Languages
 
 │ Python │ C++│ JavaScript │ Java│ HTML/CSS |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="45%" />
+</p>
+
+---
+
+## 📝 Certifications
+
+- 🎓 **[Certification Name]** - [Organization] ([Year])
+- 🎓 **[Certification Name]** - [Organization] ([Year])
+- 🎓 **[Certification Name]** - [Organization] ([Year])
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0a0a0a&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# My Daily Routine
+def code_and_learn():
+    while True:
+        morning = ["☕ Coffee", "📊 Stats Review"]
+        afternoon = ["🤖 ML Models", "💻 Code"]
+        evening = ["📚 Study", "🧪 Experiment"]
+        if final_year_project_looming:
+            work_until_midnight()
+        else:
+            sleep(7)  # Self-care is important!
+        yield "🚀 Progress"
 
