@@ -36,6 +36,8 @@ I'm a final-year Computer Science student who bridges the gap between **statisti
 
 │ Python │ C++│ JavaScript │ Java│ HTML/CSS |
 
+<!-- This is a completely hidden comment 
+
 ---
 
 ## 📊 GitHub Stats
@@ -66,6 +68,8 @@ I'm a final-year Computer Science student who bridges the gap between **statisti
 </p>
 
 ---
+
+-->
 
 ## 🤝 Connect With Me
 
