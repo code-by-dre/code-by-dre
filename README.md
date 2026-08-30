@@ -93,7 +93,7 @@ I'm a final-year Computer Science student who bridges the gap between **statisti
 
 ---
 
-def code_and_learn():
+## def code_and_learn():
     """
     My daily routine as a final year AI/ML student
     """
