@@ -1,13 +1,7 @@
 # Hello! I'm Code By Dré 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Full-Stack+Developer;Statistics+Enthusiast;Data+Scientist" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/badge/Final%20Year-Student-blue" alt="Student" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Full-Stack+Developer;Statistics+Enthusiast;Data+Scientist" alt="Typing SVG" />
 </p>
 
 ---
