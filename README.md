@@ -93,15 +93,33 @@ I'm a final-year Computer Science student who bridges the gap between **statisti
 
 ---
 
-# My Daily Routine
 def code_and_learn():
+    """
+    My daily routine as a final year AI/ML student
+    """
     while True:
-        morning = ["☕ Coffee", "📊 Stats Review"]
-        afternoon = ["🤖 ML Models", "💻 Code"]
-        evening = ["📚 Study", "🧪 Experiment"]
+        # Morning routine - fuel up with stats
+        morning = [
+            "☕ Caffeine",           # Essential for brain function
+            "📊 Stats Review"       # Bayesian or frequentist?
+       ]
+        
+        # Afternoon - the main grind
+        afternoon = [
+            "🤖 Build ML Models",   # Supervised or Unsupervised?
+            "💻 Write Code"         # Python, C++, or Java?
+        ]
+        
+        # Evening - wind down but keep learning
+        evening = [
+            "📚 Study Theory",      # Deep learning architectures
+            "🧪 Run Experiments"    # Hyperparameter tuning
+        ]
+        
+        # The final year struggle is real
         if final_year_project_looming:
-            work_until_midnight()
+            work_until_midnight()   # No sleep, only results
         else:
-            sleep(7)  # Self-care is important!
-        yield "🚀 Progress"
-
+            sleep(7)                # Self-care is important!
+            
+        yield "🚀 Progress"         # One step closer to graduation
