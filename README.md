@@ -1,11 +1,17 @@
 # Hello! I'm Code By Dré 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-%20%20-blueviolet?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Data%20Analyst-%20%20-brightgreen?style=for-the-badge&logo=databricks"/>
-  <img src="https://img.shields.io/badge/Data%20Scientist-%20%20-brightblue?style=for-the-badge&logo=databricks"/>
-  <img src="https://img.shields.io/badge/AI%2FML%20Enthusiast-%20%20-orange?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-%20%20-ff1493?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Data%20Analyst-%20%20-ff69b4?style=for-the-badge&logo=databricks"/>
+  <img src="https://img.shields.io/badge/Data%20Scientist-%20%20-ff1493?style=for-the-badge&logo=kaggle"/>
+  <img src="https://img.shields.io/badge/AI%2FML%20Enthusiast-%20%20-ff69b4?style=for-the-badge&logo=tensorflow"/>
 </p>
+
+---
+
+# <p align="center">🌸 Hello! I'm Code By Dré 🌸</p>
+
+## <p align="center" style="font-size: 2.8rem; font-weight: 900; background: linear-gradient(270deg, #ff1493, #ff69b4, #ffb6c1, #ff1493); background-size: 300% 300%; animation: gradientShift 4s ease infinite; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">✦ Full-Stack Developer | Data Analyst | Data Scientist | AI/ML Enthusiast ✦</p>
 
 ---
 
