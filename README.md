@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-%20%20-blueviolet?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Data%20Analyst-%20%20-brightgreen?style=for-the-badge&logo=databricks"/>
   <img src="https://img.shields.io/badge/AI%2FML%20Enthusiast-%20%20-orange?style=for-the-badge&logo=tensorflow"/>
-  <img src="https://img.shields.io/badge/Stats%20Nerd-%20%20-ff69b4?style=for-the-badge&logo=statistics"/>
 </p>
 
 ---
