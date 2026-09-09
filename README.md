@@ -1,7 +1,10 @@
 # Hello! I'm Code By Dré 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Full-Stack+Developer;Statistics+Enthusiast;Data+Scientist" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-%20%20-blueviolet?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Data%20Analyst-%20%20-brightgreen?style=for-the-badge&logo=databricks"/>
+  <img src="https://img.shields.io/badge/AI%2FML%20Enthusiast-%20%20-orange?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Stats%20Nerd-%20%20-ff69b4?style=for-the-badge&logo=statistics"/>
 </p>
 
 ---
