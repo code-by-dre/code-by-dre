@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-**Software Developer | AI/ML Enthusiast **
+** Software Developer | AI/ML Enthusiast **
 
 I'm a final-year student who bridges the gap between **theory** and **production-ready code**. I love building intelligent systems and drinking way too much caffine.
 
