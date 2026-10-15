@@ -15,9 +15,9 @@
 
 ## 👨‍💻 About Me
 
-**Software Developer | AI/ML Enthusiast | Stats Nerd**
+**Software Developer | AI/ML Enthusiast **
 
-I'm a final-year Computer Science student who bridges the gap between **statistical theory** and **production-ready code**. I love building intelligent systems and drinking way too much coffee.
+I'm a final-year student who bridges the gap between **theory** and **production-ready code**. I love building intelligent systems and drinking way too much caffine.
 
 - 🎓 **Currently:** Final Year Student
 - 🔭 **Working on:** Applying ML to solve real-world problems
@@ -35,7 +35,7 @@ I'm a final-year Computer Science student who bridges the gap between **statisti
 
 ### 💻 Languages
 
-│ Python │ C++│ JavaScript │ Java│ HTML/CSS |
+│ Python │ C++│ JavaScript │ Java │ HTML/CSS |
 
 <!-- This is a completely hidden comment 
 
